@@ -190,7 +190,7 @@ This build is ready for beta testers. Please open an issue with:
 
 <!-- TODO: add any other designs, fans or components you want to credit. -->
 
-Designed by [your name / handle].
+Designed by [Team ONBOX_Creations/handler Vivek Kailas Varma].
 
 ---
 
