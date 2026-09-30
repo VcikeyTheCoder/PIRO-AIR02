@@ -185,12 +185,13 @@ This build is ready for beta testers. Please open an issue with:
 - **[Xol Toolhead](https://github.com/Armchair-Engineering/Xol-Toolhead)** by Armchair Engineering: the carriage clips used for mounting.
 - **[ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder)** by nhchiu: the primary extruder this toolhead is designed around.
 - **[Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)** by Annex Engineering: the mounting pattern.
+- **[Orion Hex Drive](https://github.com/bythorsthunder/Orion-Hex-Drive)** by bythorsthunder: the duct design.
 - **Creality**: K2 Plus hotend and load cell.
 - **Klippain Shake&Tune**: input shaper analysis.
 
 <!-- TODO: add any other designs, fans or components you want to credit. -->
 
-Designed by [Team ONBOX_Creations/handler Vivek Kailas Varma].
+Designed by [your name / handle].
 
 ---
 
