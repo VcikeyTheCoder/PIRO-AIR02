@@ -8,6 +8,10 @@
 
 PIRO-AIR is a toolhead designed around components that actually make sense together. Printed-gantry machines are usually paired with whatever toolhead is on hand, and that is often where performance gets left behind. This design picks a Sherpa-pattern extruder, a K2 Plus hotend with its load cell, and a 4028 part-cooling fan, then arranges them so the center of mass sits between the linear rail blocks.
 
+<video src="videos/piro-air-demo.mp4" controls muted width="100%"></video>
+
+*Demo video: [watch it here](videos/piro-air-demo.mp4) if it doesn't play inline.*
+
 **Status: complete and open for beta testing.** There is no assembly guide or BOM yet, so you will work from the CAD for now (see [Assembly](#assembly)). Feedback is welcome, especially from anyone running a similar printed-gantry setup.
 
 ---
